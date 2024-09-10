@@ -31,7 +31,7 @@ return(
       <div className="flex flex-1 justify-center items-center">
         <ol>
       <li><h2 className="font-semibold text-2xl">1.Poor IT Performance and service delivery</h2><p>Poorly performing IT partners and IT services reduce productivity and risk the integrity of the business</p> </li>
-      <li><h2 className="font-semibold text-2xl">2.Distraction from Business Priorities</h2><p>Our typical customer doe not want to be distracted by IT services that do not add value to the customers</p> </li>
+      <li><h2 className="font-semibold text-2xl">2.Distraction from Business Priorities</h2><p>Our typical customer do not want to be distracted by IT services that do not add value to the customers</p> </li>
       <li><h2 className="font-semibold text-2xl">3.Contrtolling IT Costs</h2><p>It is important to have managed IT costs since it is one of the largest ongoing cost in any business</p> </li>
         </ol>
       </div>
